@@ -94,15 +94,3 @@ This project is licensed under the **MIT License**.
 For any inquiries or issues, reach out:  
 💎 **Your Name** - [gopi.maganti1998@gmail.com](mailto:gopi.maganti1998@gmail.com)  
 🔗 GitHub: [krish-log](https://github.com/krish-log)  
-
----
-
-### 📌 What’s Improved in This Version?  
-✔️ **Better readability & structure**  
-✔️ **Emojis for clarity & visual appeal**  
-✔️ **Improved formatting for API & installation steps**  
-✔️ **Added Swagger documentation link**  
-✔️ **Clearer contributing section**  
-
-Let me know if you need further enhancements! 🚀
-
