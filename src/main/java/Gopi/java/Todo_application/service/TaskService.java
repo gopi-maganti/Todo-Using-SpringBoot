@@ -30,7 +30,7 @@ public class TaskService {
         return taskRepository.findById(id).map(task -> {
             task.setTitle(updatedTask.getTitle());
             task.setDescription(updatedTask.getDescription());
-            task.setCompleted(updatedTask.getCompleted());
+            task.setStatus(updatedTask.getStatus());
             return taskRepository.save(task);
         }).orElseThrow(() -> new RuntimeException("Task not found"));
     }
